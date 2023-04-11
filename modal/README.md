@@ -1,8 +1,8 @@
 # React modal architecture
-
+``` 
     ├── ...
     ├── src                    
-│   ├── components                 
+    ├── components                 
             ├── Buttons            # example how use modals in components 
             ├── Modal              # Wrapper for modal
                 ├── Template       # Modal template
@@ -10,4 +10,4 @@
                     ├── Modal2
     │   ├── context   
     │     ├── modal               # context for modal
-    
+```
